@@ -47,3 +47,12 @@ body{
     height: 50px;
     margin-top: 20px;
 }
+
+body{
+    display: flex;
+    height: 100vh;
+    min-width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px;
+}
