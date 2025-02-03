@@ -70,4 +70,12 @@ body{
     font-size:30px;
 }
 
+/* feed */
+.feed{
+    flex: 0.5;
+    border-right: 1px solid var(--twitter-backgroud);
+    min-width: fit-content; 
+    overflow-y: scroll;
+}
+
 
