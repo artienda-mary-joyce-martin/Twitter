@@ -162,7 +162,11 @@ tweetBox_tweetButton {
     margin-right: 5px;
 
 }
-
+.post_headerSpecial {
+    font-weight: 600;
+    font-size: 12px;
+    color: gray;
+}
 .post_headerText h3{
     font-size: 15px;
     margin-bottom: 5px;
