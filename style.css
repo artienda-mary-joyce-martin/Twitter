@@ -203,3 +203,20 @@ tweetBox_tweetButton {
     background-color: var(--twitter-backgroud);
     outline: none;
 }
+
+.widgets_searchIcon{
+   color: gray;
+}
+
+.widgets_widgetsContainer{
+   margin-top: 15px;
+   margin-left: 20px;
+   padding: 20px;
+   background-color: #f5f8fa;
+   border-radius: 20px;
+}
+
+.widgets_widgetsContainer h2 {
+   font-size: 18px;
+   font-height: 800;
+}
